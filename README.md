@@ -17,3 +17,26 @@
     </nav>
 </body>
 </html>
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  header {
+    background-color: lightblue;
+    text-align: center;
+    padding: 2px;
+    font-size: 25px;
+    color: white;
+  }
+  nav {
+    float: left;
+    width: 30%;
+    height: 300px;
+    background: #fff;
+    padding: 20px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+</style>
