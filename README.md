@@ -43,10 +43,10 @@
     padding: 0;
   }
   article {
-    float: center;
+    float: left;
     padding: 20px;
     width: 70%;
-    background-color: #f1f1f1;
+    background-color: light green;
     height: 300px; 
   }
  
