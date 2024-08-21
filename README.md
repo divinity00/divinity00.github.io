@@ -1,7 +1,7 @@
 <html>
 <h1> Welcome to the Coding World of Divinity!</h1>
-  <p> This page will hold multiple different projects that will act as a portfolio for all the work that I have accomplished.
-  <br>
+  <p> This page will cover a multitude of my coding feats from fun projects that I have created, to real world applications, incorporation of a game or two, and easy hacks for both coding and the videogames that have inspired me to create a hack for them via coding.
+  <br><br>
   <button> Fun Project Folder </button> <button> Real World Project Folder </button> <button> Tips and Tricks </button>
   </p>
 
